@@ -6,7 +6,7 @@
   quote: >
    Inovation, inspiration and integrity group of cool people.
   description: | # this will include new lines to allow paragraphs
-    We belive thet every engineer should be free, thats why we created this group of freelancers with abition to become startup.
+    We believe thet every engineer should be free, which is why we created this group of freelancers with an ambition to become a startup.
 
 - layout: left
   company: Symphony Solutions
@@ -36,7 +36,7 @@
   quote: >
     Making enterprises safe.
   description: | # this will include new lines to allow paragraphs
-    Implementing STLC through functional and non-functional tesing, defining test requirementsc reating test cases, test reports, test scripts and supporting data with Selenium and Protractor. 
+    Implementing STLC through functional and non-functional tesing, defining test requirements, creating test cases, test reports, test scripts and supporting test data with Selenium, Protractor and Rest-Assured. 
     
 - layout: left
   company: Personnel Ltd
