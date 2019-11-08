@@ -16,8 +16,7 @@
   quote: >
     If you want clever solutions, then you need Symphony Solutions.
   description: | # this will include new lines to allow paragraphs
-    Working on automation testing on Infrastructure as a Code using boto3 and Python, 
-    creating and maintaining CodeBuild jobs and helping enterprises transition to AWS.
+    Working on automation testing on Infrastructure as a Code(AWS) using boto3 and Python.
 
 - layout: left
   company: Intertec
@@ -27,8 +26,7 @@
   quote: >
     Cross-functional at its finest.
   description: | # this will include new lines to allow paragraphs
-    Designed and implemented test automation architecture for both UI and API automation testing. 
-    Created, deployed and maintained RESTful services using JAVA, Spring, Hibernate, MySQL, AWS.
+    Designed and implemented test automation architecture for both UI and API automation testing. Created, deployed and maintained RESTful services using JAVA, Spring, Hibernate, MySQL, AWS.
 
 - layout: left
   company: Endava
@@ -38,16 +36,15 @@
   quote: >
     Making enterprises safe.
   description: | # this will include new lines to allow paragraphs
-    Implementing STLC through functional and non-functional tesing. Defining test requirements. Creating test cases, test reports, test scripts and supporting data with Selenium WebDriver and Protractor. 
-    Interpreting, executing and recording test cases in accordance with established plan. Analyzing and reporting test activities and results. Identifying and reporting issues and risks.
-
+    Implementing STLC through functional and non-functional tesing, defining test requirementsc reating test cases, test reports, test scripts and supporting data with Selenium and Protractor. 
+    
 - layout: left
   company: Personnel Ltd
   link: personnel.ltd.uk/
   job_title: Software Developer/Automation Engineer
   dates: October 2014 - May 2016
   quote: >
-    
+    Security is a must!
   description: | # this will include new lines to allow paragraphs
     Worked on a creation of a DBS check platform both as a developer and automation engineer. Worked with technologies such as Selenium,
     PHP, MySQL.
