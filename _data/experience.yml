@@ -1,41 +1,53 @@
 - layout: left
   company: Tulip Technology Partners
   link: tuliptp.com
-  job_title: AWS Solutions Architect
+  job_title: Software Engineer
   dates: Octomber 2019 - Present
   quote: >
-   Inovation, inspiration and integrity group of cool people
+   Inovation, inspiration and integrity group of cool people.
   description: | # this will include new lines to allow paragraphs
     We belive thet every engineer should be free, thats why we created this group of freelancers with abition to become startup.
 
 - layout: left
   company: Symphony Solutions
   link: symphony-solutions.com
-  job_title: Senior DevOps | AWS Solutions Architect
-  dates: December 2017 - Present
+  job_title: Automation Engineer
+  dates: June 2019 - Present
   quote: >
-    If you want clever solutions, then you need Symphony Solutions
+    If you want clever solutions, then you need Symphony Solutions.
   description: | # this will include new lines to allow paragraphs
-    Working in team with awesome people as DevOps engineer using best practices to create reliable cloud environments based on best practices.
-    Infrastructure as a code,Cloudformation - using jinja2 on top of cloudformation to gain more power and reusable code, Terraform modules,
-    Ansible as configuration management and tool for managing and rendering templates, CI/CD, Python scripts and CLI tools, Creating cloud environments based on best practices using AWS Landing Zone and Control tower.
+    Working on automation testing on Infrastructure as a Code using boto3 and Python, 
+    creating and maintaining CodeBuild jobs and helping enterprises transition to AWS.
 
 - layout: left
-  company: ITGMA | TriNimbus
-  link: itgma.com
-  job_title: Cloud Support engineer
-  dates: June 2015 - December 2017
+  company: Intertec
+  link: intertec.io
+  job_title: Software Engineer
+  dates: March 2017 - June 2019
   quote: >
-    Making Cloud as new normal
+    Cross-functional at its finest.
   description: | # this will include new lines to allow paragraphs
-    As Cloud support engineer in the support team i've gained a lot of experience handling incidents on non production and production environments, working with customers directly and helping them to grow in the cloud (aws).
+    Designed and implemented test automation architecture for both UI and API automation testing. 
+    Created, deployed and maintained RESTful services using JAVA, Spring, Hibernate, MySQL, AWS.
 
 - layout: left
-  company: Ministry of Transport and Communications (North Macedonia)
-  link: mtc.gov.mk
-  job_title: Senior Network System Administrator
-  dates: June 2008 - June 2015
+  company: Endava
+  link: endava.com
+  job_title: Software Test Engineer
+  dates: May 2016 - March 2017
   quote: >
-    Making modern data centre from scratch
+    Making enterprises safe.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered specilay  government institutions. Starting with Linksys home router making sure the whole institution stays connected to modern data centre with single sign on service, centralized user management, on premise email service, and all componets. Mission was accomplished after 7 years.
+    Implementing STLC through functional and non-functional tesing. Defining test requirements. Creating test cases, test reports, test scripts and supporting data with Selenium WebDriver and Protractor. 
+    Interpreting, executing and recording test cases in accordance with established plan. Analyzing and reporting test activities and results. Identifying and reporting issues and risks.
+
+- layout: left
+  company: Personnel Ltd
+  link: personnel.ltd.uk/
+  job_title: Software Developer/Automation Engineer
+  dates: October 2014 - May 2016
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    Worked on a creation of a DBS check platform both as a developer and automation engineer. Worked with technologies such as Selenium,
+    PHP, MySQL.
