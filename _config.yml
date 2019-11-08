@@ -3,30 +3,30 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Ivica Micev
-title: Dev Ops | AWS Solutions Architect
-email: ivica.micev@tuliptp.com
+name: Filip Gudjevski
+title: Software Engineer | AWS Solutions Architect
+email: filip.gudjevski@tuliptp.com
 website: tuliptp.com
 
 # Social links
-twitter_username: ivicamicev
-github_username:  ivicamicev
+# twitter_username: ivicamicev
+github_username:  gudzo
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: micevivica
-linkedin_username: ivica-micev-2420645
+instagram_username: gudzo
+linkedin_username: filipgudjevski
 # pinterest_username: jekyll
-youtube_username: ivica.micev
+# youtube_username: ivica.micev
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Skilled DevOps Engineer with 10+ years experience in IT as System Engineer and 3+ years of hands-on experience in building and supporting workloads on AWS using infrastructure as a code and DevOps principals, 2 years experience as AWS Solutions Architect. Passion for building new and improving existing workloads on AWS based on Well Architected Framework, helping in cloud journey and application transformation.
+  A versatile software engineer with 5+ years experience in creating RESTful web services and automation with a focus AWS standard and best practices. 
 
-  I am most skilled in: <mark>AWS</mark>, <mark>Scripting Languges</mark>,<mark>Infrastructure as a code</mark><mark>Cloud Solutions</mark> 
+  I am most skilled in: <mark>AWS</mark>, <mark>JAVA</mark>,<mark>Automation</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,10 +40,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in cloud, aws infrastructure as a code and software engineering some of my other interests and hobbies are:
-   - Fishing
-   - Organizing AWS User group events (meetups)
-   - Coffee lover, i like to try all bleds of esspresso
+  Alongside my interests in Cloud Technologies, JAVA and automation of all kinds, some of my other interests and hobbies are:
+   - Basketball
+   - Snowboarding
 
 # Footer
 footer_show_references: true
