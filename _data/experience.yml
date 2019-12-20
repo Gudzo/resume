@@ -44,10 +44,10 @@
 - layout: left
   company: Personnel Ltd
   link: personnel.ltd.uk/
-  job_title: Software Developer/Automation Engineer
+  job_title: Software Engineer/Automation Engineer
   dates: October 2014 - May 2016
   quote: >
-    
+    Security is a must.
   description: | # this will include new lines to allow paragraphs
     Worked on a creation of a DBS check platform both as a developer and automation engineer. Worked with technologies such as Selenium,
     PHP, MySQL.
