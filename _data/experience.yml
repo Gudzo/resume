@@ -26,7 +26,7 @@
   quote: >
     Cross-functional at its finest.
   description: | # this will include new lines to allow paragraphs
-    Designed and implemented test automation architecture for both UI and API automation testing. Created, deployed and maintained RESTful services using JAVA, Spring, Hibernate, MySQL, AWS.
+    Designed and implemented test automation architecture for both UI and API automation testing. Created, deployed and maintained RESTful services using JAVA, Spring, Hibernate, MySQL and AWS.
 
 - layout: left
   company: Endava
