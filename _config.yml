@@ -24,7 +24,7 @@ linkedin_username: filipgudjevski
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  A versatile software engineer with 5+ years experience in creating RESTful web services and automation with a focus AWS standard and best practices. 
+  A versatile software engineer with 5+ years experience in creating RESTful web services and automation with a focus on using AWS standards and best practices. 
 
   I am most skilled in: <mark>AWS</mark>, <mark>JAVA</mark>,<mark>Automation</mark>
 
